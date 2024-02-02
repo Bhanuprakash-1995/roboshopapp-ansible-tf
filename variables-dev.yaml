@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-dev.daws86s.online
+REDIS_HOST: redis-dev.daws86s.online
+MYSQL_HOST: mysql-dev.daws86s.online
+RABBITMQ_HOST: rabbitmq-dev.daws86s.online
+CATALOGUE_HOST: catalogue.app-dev.daws86s.online
+USER_HOST: user.app-dev.daws86s.online
+CART_HOST: cart.app-dev.daws86s.online
+SHIPPING_HOST: shipping.app-dev.daws86s.online
+PAYMENT_HOST: payment.app-dev.daws86s.online
+DISPATCH_HOST: dispatch.app-dev.daws86s.online
+NEXUS_URL: http://172.31.8.104:8081/repository
+group_id: "com/roboshop"
